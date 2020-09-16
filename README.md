@@ -7,4 +7,6 @@ Chapter 1 description: This is the start of the great adventure. Our cherry left
 
 Chapter 2 description: The cherry is snatched by a local farmer. 
 
-Chapter 3 description: Then it was turned into a delicious cherry pie. 
+Chapter 3 description: Then it was turned into a delicious cherry pie.
+
+ 
